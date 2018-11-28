@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\j-cro\source\repos\ai\ai\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\j-cro\source\repos\ai\ai\main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\j-cro\source\repos\ai\ai\main.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\j-cro\source\repos\ai\ai\main.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\j-cro\source\repos\ai\ai\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AI.vcxproj -> C:\Users\J-Cro\source\repos\AI\Debug\AI.exe
