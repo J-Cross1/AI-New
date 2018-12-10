@@ -1,8 +1,5 @@
-﻿  Main.cpp
-h:\year 2\ai\ai-new\ai\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
-h:\year 2\ai\ai-new\ai\main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
-h:\year 2\ai\ai-new\ai\main.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-h:\year 2\ai\ai-new\ai\main.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-h:\year 2\ai\ai-new\ai\main.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-h:\year 2\ai\ai-new\ai\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  AI.vcxproj -> H:\Year 2\AI\AI-New\Debug\AI.exe
+﻿  recipe-577457-1.cpp
+e:\chrome downloads\a_star_code\a_star_code\cpp\recipe-577457-1.cpp(211): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\chrome downloads\a_star_code\a_star_code\cpp\recipe-577457-1.cpp(263): warning C4018: '<': signed/unsigned mismatch
+Main.obj : error LNK2005: _main already defined in recipe-577457-1.obj
+C:\Users\J-Cro\OneDrive\Documents\Uni Year 2\AI\AI-New\Debug\AI.exe : fatal error LNK1169: one or more multiply defined symbols found
